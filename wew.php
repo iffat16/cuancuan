@@ -216,15 +216,3 @@ ulang:
          goto ulang;
          }
 //  }
-© Github, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
